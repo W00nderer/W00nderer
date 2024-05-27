@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML/CSS/JavaScript, but I also study Software Engineering in South Korea!
 - 💞️ I’m looking to collaborate on cool website ideas, and if anyone's interested, web games?
 - 📫 How to reach me: lsalimullina0311@gmail.com
-- 😄 Pronouns: she/her
+- 😄 LeetCode Profile: https://leetcode.com/u/W00nderer/
 - ⚡ Fun fact: I used to study International Relations. And I can speak English, Russian and Korean~
 
 <!---
